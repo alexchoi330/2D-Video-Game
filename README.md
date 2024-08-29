@@ -2,7 +2,7 @@
 
 check out the demo @ https://youtu.be/uPVyCMU1ZOA?si=xGaldKQr0oLZpEt2
 
-code is hidden for privacy issues. 
+code is hidden due to privacy issues. 
 
     Art Asset References:
     - guy in tank - https://ansimuz.itch.io/warped-sci-fi-lab
