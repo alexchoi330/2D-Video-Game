@@ -1,4 +1,4 @@
-# Team10-Touch-Of-The-Void
+# 2D game - Touch-Of-The-Void
 
 Art Asset References:
 - guy in tank - https://ansimuz.itch.io/warped-sci-fi-lab
